@@ -5,9 +5,11 @@ This application was created using:
 - spring-boot-starter-data-jpa
 - h2 database
 
-The purpose of the application is to manage reservations in the database using the REST API.
+The primary objective of this application is to simplify reservation management within a database through a REST API.
 
-It is the backend part of the application that gets data from the frontend, which is then processed and performs operations on the database (H2)
+The backend component of the application receives data from the frontend, processes it, and executes operations on the H2 database.
+
+Users can perform CRUD (Create, Read, Update, Delete) operations, including:
 
 User can perform simple CRUD operations like:
 - add reservation,
